@@ -1,0 +1,104 @@
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    width: 100%;
+    margin: 0;
+}
+
+header h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.desc-section {
+    font-size: 16px;
+    text-align: left;
+    padding: 45px 150px 60px;
+    display: block;
+}
+
+h1,
+h2 {
+    font-weight: 500;
+    margin: 0%;
+}
+
+p {
+    font-weight: 300;
+}
+
+.desc-section div {
+    width: 50%;
+    padding-top: 30px;
+    display: inline-block;
+}
+
+.desc-section img {
+    width: 40%;
+    display: inline-block;
+    margin-left: 9%;
+}
+
+.icon-section {
+    background-color: #1E1A13;
+    opacity: .98;
+    font-size: 40px;
+    padding: 75px 150px;
+
+}
+
+.icon-section h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.icons {
+    display: flex;
+    width: 100%;
+
+}
+
+.box-icon {
+    width: 33%;
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    flex-direction: column;
+}
+
+.image-section {
+    background-color: #000000;
+    opacity: 96%;
+    padding: 75px 150px;
+}
+
+.image-section img {
+    width: 30%;
+}
+
+.image-section div {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.footer {
+    background-color: #1E1A13;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+a {
+    color: #FFFFFF;
+}
